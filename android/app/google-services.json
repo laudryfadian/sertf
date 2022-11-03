@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1053872844928",
+    "project_id": "sertifikasi-sample",
+    "storage_bucket": "sertifikasi-sample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053872844928:android:946d3f83909663a9dfb665",
+        "android_client_info": {
+          "package_name": "com.example.sertf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053872844928-38cqi6a5qksfgu23f3858je0rmlejeqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRWc3R-2hT7pfl9QdwXTXHohEjSuQqmM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053872844928-38cqi6a5qksfgu23f3858je0rmlejeqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
